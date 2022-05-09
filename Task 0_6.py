@@ -1,4 +1,3 @@
-# Function to return the largest number
 def max(a,b,c):
 
     if (a>b and a>c):

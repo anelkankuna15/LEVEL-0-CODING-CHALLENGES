@@ -1,4 +1,3 @@
-# A function to check EVEN or ODD
 def CheckEvenOdd(num): 
   if (num % 2 == 0): 
     print(num," is EVEN")
