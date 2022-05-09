@@ -4,7 +4,6 @@ def CheckEvenOdd(num):
   else: 
     print(num," is ODD")
   
-# Code to check
 CheckEvenOdd(11) 
 CheckEvenOdd(22) 
 CheckEvenOdd(33)
